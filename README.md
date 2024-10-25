@@ -6,6 +6,7 @@ Efficient document ingestion and processing of PDF files
 Uses advanced language models to understand and answer questions
 Retrieves relevant passages from the PDFs to support the answers
 Supports diverse topics across multiple PDFs
+
 How it Works
 Input the PDF files into the system.
 Ask a question related to the content of the PDFs.
